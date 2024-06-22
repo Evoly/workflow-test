@@ -1,1 +1,1 @@
-testing workflow
+[![hello-world](https://github.com/Evoly/workflow-test/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/Evoly/workflow-test/actions/workflows/test.yml)
